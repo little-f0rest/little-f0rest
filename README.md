@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amanda (@little-f0rest).
+- 👋 Hi, I’m Amanda!
 - 👀 I’m interested in learning how to program from the ground up!
 - 🌱 I’m currently learning Python.
 - 📫 You can find me on Twitter @code_and_panic
