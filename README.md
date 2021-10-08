@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amanda!
 - 👀 I’m interested in learning how to program from the ground up!
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and taking part in the #100DaysOfCode challenge.
 - 📫 You can find me on Twitter @code_and_panic
 
 <!---
